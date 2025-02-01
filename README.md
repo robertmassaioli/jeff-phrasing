@@ -45,9 +45,9 @@ There's an excellent tool for practicing jeff-phrasing [here](https://github.com
 
 # System
 
-There are two ways phrases can be constructed -- simple form and full form.
+There are two ways phrases can be constructed -- simple form (function starters) and full form (pronoun starters).
 
-## Simple form
+## Simple form (starts with a function word)
 
 A simple phrase is constructed with:
 
